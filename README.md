@@ -1,5 +1,5 @@
 # MOS Technology 6502 Homebrew System
-
+Modular 6502 homebrew computer with PAL-based decoding, RAM banking and UART bootloader.
 This project is a modular homebrew computer system based on the 
 :contentReference[oaicite:0]{index=0} CPU.
 
